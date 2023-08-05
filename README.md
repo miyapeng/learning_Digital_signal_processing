@@ -1,1 +1,2 @@
 # learning_Digital_signal_processing
+旨在记录初步学习数字信号过程中的心得与体会
